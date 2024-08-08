@@ -1,0 +1,14 @@
+body {
+    background-color: pink;
+}
+.heading {
+    color: blue;
+    background-color: yellow;
+}
+button {
+    color: white;
+    background-color: blue;
+}
+h3 {
+    visibility: hidden;
+}
