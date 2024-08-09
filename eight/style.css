@@ -1,0 +1,12 @@
+div {
+    height: 200px;
+    width: 200px;
+    border: 1px solid blue;
+    border-radius: 1rem;
+    background-color: aquamarine;
+    color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem 0;
+}

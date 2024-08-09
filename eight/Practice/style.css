@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+.box {
+    height: 100vh;
+    width: 100vw;
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button {
+    padding: 2rem 3rem;
+    font-size: 1.5rem;
+    border-radius: 1rem;
+    border: none;
+    border: 1px solid black;
+    color: #fff;
+    background-color: #000;
+}
+button:hover {
+    cursor: pointer;
+}
